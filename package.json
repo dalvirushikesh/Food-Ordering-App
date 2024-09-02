@@ -1,0 +1,16 @@
+{
+  "name": "food-ordering-app",
+  "version": "1.0.0",
+  "description": "This is food ordering app by rushikesh dalvi",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type":"git",
+    "url":"git@github.com:dalvirushikesh/Food-Ordering-App.git"
+  },
+  "keywords": [],
+  "author": "Rushikesh Dalvi",
+  "license": "ISC"
+}
